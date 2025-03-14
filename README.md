@@ -21,7 +21,7 @@ This project implements a machine learning model to predict mycotoxin (DON) conc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ImagoAI-Machine-Learning-Intern-Task.git
+git clone https://github.com/1av22/ImagoAI-Machine-Learning-Intern-Task.git
 cd ImagoAI-Machine-Learning-Intern-Task
 ```
 
